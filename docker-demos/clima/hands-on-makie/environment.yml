@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter-server-proxy
+  - jupyterlab-git
+  - pip:
+    - jupyter-contrib-nbextensions
